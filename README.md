@@ -3,6 +3,7 @@ Le détail des options est dans le fichier « \\admgrp10\Sources$\ScriptPurge\Op
 
 
 Exemple avec un répertoire de test.
+
 <img width="455" alt="image" src="https://user-images.githubusercontent.com/85949171/124822552-52001380-df70-11eb-8ea7-f280e9df2f01.png">
 
 Le script est lancé en tâche planifiée.
