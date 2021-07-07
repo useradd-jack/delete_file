@@ -1,2 +1,2 @@
 FolderPath;FileAge;LogFile;AutoLog;ExcludePath;IncludePath;RegExPath;ExcludeFileExtension;IncludeFileExtension;KeepFile;EmailTo;EmailFrom;EmailSmtpServer;EmailSmtpPort;EmailSubject;EmailBody;ExcludeDate;ListOnly;VerboseLog;AppendLog;CreateTime;CompareCreateTimeLastModified;LastAccessTime;CleanFolders;NoFolder;ArchivedOnly
-C:\Users\a-rbareau\Desktop\testpurge;-1;"""D:\Sources\ScriptPurge\Log\purgetest.txt""";NO;NO;NO;NO;NO;.txt;2;NO;NO;NO;NO;NO;NO;NO;NO;NO;NO;NO;NO;NO;NO;NO;NO
+C:\Users\jack\Desktop\testpurge;-1;"""D:\Sources\ScriptPurge\Log\purgetest.txt""";NO;NO;NO;NO;NO;.txt;2;NO;NO;NO;NO;NO;NO;NO;NO;NO;NO;NO;NO;NO;NO;NO;NO
