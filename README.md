@@ -16,7 +16,7 @@ Je le lance manuellement pour le test.
 Dans l’exemple, le fichier csv :
 
 Un fichier de log est dans le répertoire « D:\Sources\ScriptPurge\Log\purgetest.txt » du serveur.
-Le script supprime les fichiers dans le répertoire « C:\Users\a-rbareau\Desktop\testpurge » qui se terminent en .txt et en garde deux.
+Le script supprime les fichiers dans le répertoire « C:\Users\jack\Desktop\testpurge » qui se terminent en .txt et en garde deux.
 
 Le fichier de log est disponible :
 Il reste que deux fichiers en .txt et les autres ne sont pas supprimés étant donnée qu’on demande la suppression des fichiers .txt uniquement.
