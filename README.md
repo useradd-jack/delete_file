@@ -1,5 +1,5 @@
-Ajouter les options voulus dans le fichier « \\admgrp10\Sources$\ScriptPurge\listeserveurs.csv ».
-Le détail des options est dans le fichier « \\admgrp10\Sources$\ScriptPurge\Options.docx ».
+Ajouter les options voulus dans le fichier « listeserveurs.csv ».
+Le détail des options est dans le fichier « Options.docx ».
 
 
 Exemple avec un répertoire de test.
@@ -15,7 +15,7 @@ Je le lance manuellement pour le test.
 
 Dans l’exemple, le fichier csv :
 
-Un fichier de log est dans le répertoire « D:\Sources\ScriptPurge\Log\purgetest.txt » du serveur admgrp10.
+Un fichier de log est dans le répertoire « D:\Sources\ScriptPurge\Log\purgetest.txt » du serveur.
 Le script supprime les fichiers dans le répertoire « C:\Users\a-rbareau\Desktop\testpurge » qui se terminent en .txt et en garde deux.
 
 Le fichier de log est disponible :
