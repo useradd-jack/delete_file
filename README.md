@@ -15,6 +15,9 @@ Je le lance manuellement pour le test.
 
 Dans l’exemple, le fichier csv :
 
+![image](https://user-images.githubusercontent.com/85949171/124873045-42131e80-dfc6-11eb-9f5d-81692ca0a39b.png)
+
+
 Un fichier de log est dans le répertoire « D:\Sources\ScriptPurge\Log\purgetest.txt » du serveur.
 Le script supprime les fichiers dans le répertoire « C:\Users\jack\Desktop\testpurge » qui se terminent en .txt et en garde deux.
 
